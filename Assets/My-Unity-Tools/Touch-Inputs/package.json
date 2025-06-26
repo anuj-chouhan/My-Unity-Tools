@@ -1,0 +1,10 @@
+{
+    "name": "com.anuj.touchinputs",
+    "version": "1.0.0",
+    "displayName": "Touch Input System",
+    "description": "Touch input manager using Unity's new Input System.",
+    "unity": "2020.3",
+    "author": {
+        "name": "Anuj Chouhan"
+    }
+}

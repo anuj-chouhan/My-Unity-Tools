@@ -1,0 +1,10 @@
+{
+    "name": "com.anuj.saveload",
+    "version": "1.0.0",
+    "displayName": "Save/Load Manager",
+    "description": "Simple save/load manager using JSON or PlayerPrefs.",
+    "unity": "2020.3",
+    "author": {
+        "name": "Anuj Chouhan"
+    }
+}
