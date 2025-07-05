@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Parent : MonoBehaviour
+public abstract class Parent : MonoBehaviour
 {
 
 }
