@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace SaveLoad
 {
-    public class NewMonoBehaviourScript1 : Parent
+    public class NewMonoBehaviourScript1 : APooledBehaviour
     {
         // Start is called once before the first execution of Update after the MonoBehaviour is created
         void Start()

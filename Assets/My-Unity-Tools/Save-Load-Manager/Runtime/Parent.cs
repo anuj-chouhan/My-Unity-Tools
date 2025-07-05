@@ -1,20 +1,15 @@
+using System;
 using UnityEngine;
 
-namespace SaveLoad
+public abstract class APooledBehaviour : MonoBehaviour, IPooledObject
 {
-
-    public abstract class Parent : MonoBehaviour, MyInterface
-    {
-
-    }
-
+    public virtual void OnGetFromPool() { }
+    public virtual void OnReleaseToPool() { }
 }
 
-public interface MyInterface
+public interface IPooledObject
 {
-
-    public void Method()
-    {
-
-    }
+    void OnGetFromPool();
+    void OnReleaseToPool();
 }
+
