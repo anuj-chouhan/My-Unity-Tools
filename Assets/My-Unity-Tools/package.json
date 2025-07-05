@@ -1,0 +1,12 @@
+{
+    "name": "com.anuj.saveloadsystem",
+    "version": "1.0.0",
+    "displayName": "Save Load System",
+    "description": "A type-safe and extendable wrapper over Unity’s PlayerPrefs using enum-based keys, with support for default values, deletion, and existence checks",
+    "unity": "2020.3",
+    "author": {
+        "name": "Anuj Chouhan",
+        "email": "anujchouhan112@gmail.com",
+        "url": "#"
+    }
+}
