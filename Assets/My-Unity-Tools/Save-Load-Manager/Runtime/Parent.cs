@@ -1,6 +1,11 @@
 using UnityEngine;
 
-public abstract class Parent : MonoBehaviour
+namespace SaveLoad
 {
+
+    public abstract class Parent : MonoBehaviour
+    {
+
+    }
 
 }
