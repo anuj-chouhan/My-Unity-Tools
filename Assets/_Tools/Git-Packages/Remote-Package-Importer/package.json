@@ -1,0 +1,12 @@
+{
+    "name": "com.anuj.remotepackageimporter",
+    "version": "1.0.0",
+    "displayName": "Remote Package Importer",
+    "description": "This package allows you to easily download Anuj's personal remote package in you project'",
+    "unity": "2020.3",
+    "author": {
+        "name": "Anuj Chouhan",
+        "email": "anujchouhan112@gmail.com",
+        "url": "#"
+    }
+}
